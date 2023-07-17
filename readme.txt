@@ -13,6 +13,6 @@ The first row consists of headings (corresponding to $v$), while the $(d+1)$ th 
 The file contains the values $A_v(0,d)$ for all patterns $v$ such that $|v| \leq 4, v \neq 0^i$ and all differences $d \in [1,2^{20}+1]$.
 The first row consists of headings (corresponding to $v$), while the $(d+1)$ th row contains the values $A_v(0,d)$.
 
-3. section_4_algorithm.nb
+3. section_3_algorithm.nb
 
 The file contains an implementation and application of the algorithm described in Section 3. 
