@@ -15,5 +15,4 @@ The first row consists of headings (corresponding to $v$), while the $(d+1)$ th 
 
 3. section_4_algorithm.nb
 
-The file contains an implementation of the algorithm described in Section 4. 
-The algorithm is then applied to the cases described in Lemma 4.8, yielding the results stated in the lemma.
+The file contains an implementation and application of the algorithm described in Section 3. 
